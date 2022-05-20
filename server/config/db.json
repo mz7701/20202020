@@ -1,0 +1,12 @@
+{
+        "development" : {
+            "username": "moroju109",
+            "password": "xkqtop12",
+            "database": "mz7701DB",
+            "host": "database-3.cnoxhuocv4d1.us-west-2.rds.amazonaws.com",
+            "port": "3306",
+            "dialect": "mysql"
+        }
+    ,
+    "salt" : "as5das5d6a7sd6a7sd76"
+}
